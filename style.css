@@ -6,3 +6,6 @@ h2{
     font-size: 30px;
     background-color: ghostwhite;
 }
+header{
+    display: flex;
+}
